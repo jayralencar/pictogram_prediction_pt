@@ -127,3 +127,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+def_checkpoints_cls1/
+def_checkpoints_input_mean/
+def_logs_cls1/
+def_logs_input_mean/
+img_checkpoints/
+img_logs/
+modelo/
+models/
+related_words_model/
+sym_checkpoints/
+sym_logs/
+tokenizers/
+corpus.txt
+pictogram_sentences_final_final.json
+pictograms.json
+tokenizer.json
+def_checkpoints_mean1/
+def_logs_mean1/
+def_mean1/
+pictobertimbau-related-words/
