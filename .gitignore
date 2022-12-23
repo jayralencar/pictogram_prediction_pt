@@ -146,5 +146,7 @@ pictograms.json
 tokenizer.json
 def_checkpoints_mean1/
 def_logs_mean1/
+logs/
+checkpoints/
 def_mean1/
 pictobertimbau-related-words/
