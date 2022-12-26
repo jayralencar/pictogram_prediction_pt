@@ -8,6 +8,13 @@ Individuals with complex communication needs (CCN) often rely on augmentative an
 
 ### Models finetuning
 
-1. Finetuning captions embeddings: [Word finetuning.ipynb](/Word finetuning.ipynb)
+1. Finetuning with embeddings from captions: [Captions_finetuning.ipynb](Captions_finetuning.ipynb)
+2. Finetuning with embeddings from synonyms: [Symnonyms_Finetuning.ipynb](Symnonyms_Finetuning.ipynb)
+3. Finetuning with embeddings from definition: [Definition_Finetuning.ipynb](Definition_Finetuning.ipynb)
+4. Finetuning with embeddings from images: [Image_Adjust.ipynb](Image_Adjust.ipynb)
+5. Finetuning with embeddings from images + captions: [Image_Caption_finetuning.ipynb](Image_Caption_finetuning.ipynb)
+6. Finetuning with embeddings from images + synonyms: [Image_Related_finetuning.ipynb](Image_Related_finetuning.ipynb)
 
 ### Models testing
+
+Testing model prediction: [Testmodel.ipynb](Testmodel.ipynb)
