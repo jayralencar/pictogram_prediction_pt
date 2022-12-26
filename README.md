@@ -4,6 +4,11 @@ Individuals with complex communication needs (CCN) often rely on augmentative an
 
 ## Execution
 
+1. Generating sentences from examples: [Sentence_generation.ipynb](Sentence_generation.ipynb)
+2. Generating sentences from vocabulary: [Vocabulary_to_corpus.ipynb](Vocabulary_to_corpus.ipynb)
+3. Corpus cleaning: [Corpus_cleaning.ipynb](Corpus_cleaning.ipynb)
+4. Text to pictogram: [Portuguese_AAC_WSD.ipynb](Portuguese_AAC_WSD.ipynb)
+
 ### Corpus Construction
 
 ### Models finetuning
